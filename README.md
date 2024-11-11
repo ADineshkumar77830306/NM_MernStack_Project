@@ -1,4 +1,4 @@
-# Online Complaint Registry - MERN Stack Application
+# Online Complaint Registery and Management System - MERN Stack Application
 
 This is a full-stack application built using the MERN stack (MongoDB, Express, React, Node.js) to manage and track user complaints efficiently. Users can register complaints, track their status, and communicate with agents. Agents and administrators have tools to manage complaints and user interactions effectively.
 ## Table of Contents
@@ -35,23 +35,24 @@ The project is organized into two main folders:
 ## Installation
 
 ### 1. Clone the Repository
-bash
-git clone https://github.com/YourGitHubUsername/online-complaint-registry.git
-cd online-complaint-registry
-
+```bash
+git clone https://github.com/Bhuvaneshsonujiji/Online_learining_platform
+cd Online_learining_platform
+```
 
 ### 2. Install Dependencies
 
 #### Server
-bash
+```bash
 cd backend
 npm install
-
+```
 
 #### Client
-bash
+```bash
 cd frontend
 npm install
+```
 ## Environment Variables
 
 Create a .env file in the backend folder with the following variables:
