@@ -1,6 +1,13 @@
 # Online Complaint Registery and Management System - MERN Stack Application
 
 This is a full-stack application built using the MERN stack (MongoDB, Express, React, Node.js) to manage and track user complaints efficiently. Users can register complaints, track their status, and communicate with agents. Agents and administrators have tools to manage complaints and user interactions effectively.
+
+## Quick Links
+- [Video Demo Link](#)
+- [Screenshots Link](https://1drv.ms/w/s!AlfwT_xU1BlZi5IWwmW-R7psIISwyA?e=IX6UF7)
+- [Project Documentation Link](#)
+
+
 ## Table of Contents
 - [Project Structure](#project-structure)
 - [Installation](#installation)
@@ -11,7 +18,6 @@ This is a full-stack application built using the MERN stack (MongoDB, Express, R
   - [Agent Features](#agent-features)
   - [Admin Features](#admin-features)
 - [Tech Stack](#tech-stack)
-- [Project Demo](#project-demo)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -104,9 +110,4 @@ npm start
 - *Database*: MongoDB
 - *Authentication*: JSON Web Token (JWT)
 
-## Project Demo
-
-Here’s a quick demo of the Online Complaint Registry, showcasing the main features, including complaint registration, status tracking, and communication between users and agents.
-
-[Demo Video Link](https://drive.google.com/file/d/1vLnc1tKQ4VHGSNFwmg605xxRYjud0Lq-/view?usp=drive_link)
 
