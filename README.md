@@ -18,9 +18,7 @@ This is a full-stack application built using the MERN stack (MongoDB, Express, R
   - [Agent Features](#agent-features)
   - [Admin Features](#admin-features)
 - [Tech Stack](#tech-stack)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 ## Project Structure
 The project is organized into two main folders:
 
