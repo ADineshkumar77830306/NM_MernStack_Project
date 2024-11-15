@@ -6,7 +6,7 @@ This is a full-stack application built using the MERN stack (MongoDB, Express, R
 - [Video Demo Link](https://drive.google.com/drive/folders/18L43jIdV5DraE48jUaA0qZEIoWlGPkJZ?usp=drive_link)
 - [Screenshots Link](https://docs.google.com/document/d/1o9WRYdBUdksdzw4-22gAWttcfDXStKYR/edit?usp=drive_link&ouid=101509489022482495416&rtpof=true&sd=true)
 - [Project Documentation Link](https://drive.google.com/drive/folders/14OXEEifuZAvdD-V5nxDYkroNPu5xeUtd?usp=drive_link)
-- [Project PPT Link](https://drive.google.com/file/d/14l51Tpbr0fbMTSveiYAJfvNjy7c5GB88/view?usp=sharing)
+- [Project PPT Link]([https://drive.google.com/file/d/14l51Tpbr0fbMTSveiYAJfvNjy7c5GB88/view?usp=sharing](https://drive.google.com/drive/folders/1gUX-OI42zRjzMpzN4Hgp_M42KPMGdUcL?usp=drive_link))
 
 
 ## Table of Contents
